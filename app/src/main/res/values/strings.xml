@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jobs</string>
+    <string name="title_activity_maps">Jobs</string>
+    <string name="title_activity_my_location">Jobs</string>
+</resources>
